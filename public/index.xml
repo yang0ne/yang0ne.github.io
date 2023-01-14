@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://oneyang.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Blog</title>
+    <link>https://yang0ne.github.io/</link>
+    <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 13 Jan 2023 21:13:51 +0800</lastBuildDate><atom:link href="http://oneyang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 11:49:03 +0800</lastBuildDate><atom:link href="https://yang0ne.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>http://oneyang.github.io/post/first/</link>
-      <pubDate>Fri, 13 Jan 2023 21:13:51 +0800</pubDate>
+      <title>图片测试</title>
+      <link>https://yang0ne.github.io/post/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sat, 14 Jan 2023 11:49:03 +0800</pubDate>
       
-      <guid>http://oneyang.github.io/post/first/</guid>
-      <description>这是使用hugo生成的第一个页面</description>
+      <guid>https://yang0ne.github.io/post/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</guid>
+      <description>正确的路径
+![screenshot](/img/Snipaste_2023-01-14_11-47-27.png) </description>
+    </item>
+    
+    <item>
+      <title>C语言学习进程</title>
+      <link>https://yang0ne.github.io/post/note/c%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E8%BF%9B%E7%A8%8B/</link>
+      <pubDate>Fri, 13 Jan 2023 22:37:11 +0800</pubDate>
+      
+      <guid>https://yang0ne.github.io/post/note/c%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E8%BF%9B%E7%A8%8B/</guid>
+      <description>{5}&amp;ndash;
+{6}&amp;ndash;
+{8}&amp;ndash;</description>
     </item>
     
   </channel>

@@ -1,0 +1,13 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/post",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "static",
+  "userIgnoreFilters": [
+    "archetypes/",
+    "public/",
+    "resources/",
+    "themes/"
+  ]
+}
